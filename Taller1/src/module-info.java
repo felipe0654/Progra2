@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Objetazos {
+module Taller1 {
 }
